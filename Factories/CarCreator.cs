@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DesignPatternFactoryMethod
+﻿namespace DesignPatternFactoryMethod
 {
     public class CarCreator : VehicleCreator
     {
